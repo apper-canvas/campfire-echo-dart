@@ -1,0 +1,42 @@
+[
+  {
+    "id": "project1",
+    "name": "Website Redesign",
+    "description": "Complete overhaul of the company website with modern design and improved user experience. Focus on mobile-first approach and performance optimization.",
+    "memberIds": ["user1", "user2", "user3", "user4"],
+    "createdAt": "2024-01-15T10:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "project2",
+    "name": "Mobile App Development",
+    "description": "Native iOS and Android applications for customer engagement. Includes user authentication, push notifications, and offline capability.",
+    "memberIds": ["user1", "user3", "user5"],
+    "createdAt": "2024-02-01T14:30:00Z",
+    "status": "active"
+  },
+  {
+    "id": "project3",
+    "name": "Platform Integration",
+    "description": "Integration of third-party services and APIs to streamline business operations. Includes CRM, payment processing, and analytics tools.",
+    "memberIds": ["user1", "user4", "user5", "user6"],
+    "createdAt": "2024-01-20T09:15:00Z",
+    "status": "active"
+  },
+  {
+    "id": "project4",
+    "name": "Marketing Campaign Q1",
+    "description": "Comprehensive marketing strategy for Q1 launch including social media, content creation, and influencer partnerships.",
+    "memberIds": ["user2", "user6"],
+    "createdAt": "2023-12-10T11:45:00Z",
+    "status": "archived"
+  },
+  {
+    "id": "project5",
+    "name": "Data Analytics Dashboard",
+    "description": "Real-time analytics dashboard for business intelligence and decision making. Features interactive charts and automated reporting.",
+    "memberIds": ["user1", "user3", "user4"],
+    "createdAt": "2024-02-10T16:20:00Z",
+    "status": "active"
+  }
+]

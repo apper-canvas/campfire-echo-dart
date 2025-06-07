@@ -1,0 +1,70 @@
+[
+  {
+    "id": "msg1",
+    "projectId": "project1",
+    "authorId": "user2",
+    "title": "Design System Documentation",
+    "content": "I've completed the initial design system documentation. The color palette, typography, and component library are now ready for review.\n\nKey highlights:\n• Consistent color scheme across all platforms\n• Accessible contrast ratios\n• Scalable typography system\n• Reusable component library\n\nPlease review and provide feedback by Friday.",
+    "createdAt": "2024-01-20T10:30:00Z",
+    "comments": [
+      {
+        "authorId": "user1",
+        "content": "Excellent work! The color system looks very professional. One suggestion: could we add dark mode variants?",
+        "createdAt": "2024-01-20T14:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "msg2",
+    "projectId": "project2",
+    "authorId": "user3",
+    "title": "Mobile App Architecture Review",
+    "content": "Team, I've outlined the technical architecture for our mobile applications. The document covers:\n\n1. Technology stack selection\n2. Database design\n3. API structure\n4. Security considerations\n5. Performance optimization strategies\n\nLooking forward to our discussion in tomorrow's meeting.",
+    "createdAt": "2024-02-02T09:45:00Z",
+    "comments": []
+  },
+  {
+    "id": "msg3",
+    "projectId": "project1",
+    "authorId": "user4",
+    "title": "Homepage Wireframes Ready",
+    "content": "The homepage wireframes are complete and uploaded to the shared folder. I've created three different layout options:\n\nOption A: Hero-focused design\nOption B: Content-grid layout\nOption C: Minimalist approach\n\nEach option addresses different user journey priorities. Let's schedule a review session this week.",
+    "createdAt": "2024-01-18T15:20:00Z",
+    "comments": [
+      {
+        "authorId": "user2",
+        "content": "Option B looks promising for our content strategy. The grid layout will work well with our blog integration.",
+        "createdAt": "2024-01-18T16:45:00Z"
+      },
+      {
+        "authorId": "user1",
+        "content": "Agree with Sarah. Option B provides the best balance between visual impact and content discoverability.",
+        "createdAt": "2024-01-19T08:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "msg4",
+    "projectId": "project3",
+    "authorId": "user5",
+    "title": "API Integration Update",
+    "content": "Progress update on third-party integrations:\n\n✅ CRM connection established\n✅ Payment gateway testing complete\n🔄 Analytics API in progress (80% done)\n⏳ Email service integration pending approval\n\nOverall timeline remains on track for end-of-month delivery. No blockers at this time.",
+    "createdAt": "2024-01-25T11:10:00Z",
+    "comments": []
+  },
+  {
+    "id": "msg5",
+    "projectId": "project5",
+    "authorId": "user1",
+    "title": "Dashboard Requirements Finalized",
+    "content": "After stakeholder meetings, we've finalized the dashboard requirements:\n\nCore Features:\n• Real-time sales metrics\n• Customer acquisition funnel\n• Product performance analytics\n• Custom date range filtering\n• Export capabilities\n\nNice-to-have:\n• Predictive analytics\n• Automated insights\n• Mobile companion app\n\nDevelopment starts next week. Estimated completion: 6 weeks.",
+    "createdAt": "2024-02-12T13:40:00Z",
+    "comments": [
+      {
+        "authorId": "user3",
+        "content": "The requirements look comprehensive. I'd suggest prioritizing the export functionality early in the sprint.",
+        "createdAt": "2024-02-12T14:55:00Z"
+      }
+    ]
+  }
+]

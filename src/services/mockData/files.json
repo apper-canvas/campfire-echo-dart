@@ -1,0 +1,92 @@
+[
+  {
+    "id": "file1",
+    "projectId": "project1",
+    "name": "brand-guidelines-v2.pdf",
+    "url": "/files/brand-guidelines-v2.pdf",
+    "size": 2457600,
+    "uploadedBy": "user2",
+    "uploadedAt": "2024-01-18T14:20:00Z"
+  },
+  {
+    "id": "file2",
+    "projectId": "project1",
+    "name": "homepage-wireframes.fig",
+    "url": "/files/homepage-wireframes.fig",
+    "size": 5242880,
+    "uploadedBy": "user4",
+    "uploadedAt": "2024-01-19T09:15:00Z"
+  },
+  {
+    "id": "file3",
+    "projectId": "project2",
+    "name": "mobile-app-requirements.docx",
+    "url": "/files/mobile-app-requirements.docx",
+    "size": 1048576,
+    "uploadedBy": "user1",
+    "uploadedAt": "2024-02-01T11:30:00Z"
+  },
+  {
+    "id": "file4",
+    "projectId": "project2",
+    "name": "user-flow-diagram.png",
+    "url": "/files/user-flow-diagram.png",
+    "size": 3145728,
+    "uploadedBy": "user2",
+    "uploadedAt": "2024-02-03T16:45:00Z"
+  },
+  {
+    "id": "file5",
+    "projectId": "project3",
+    "name": "api-integration-specs.pdf",
+    "url": "/files/api-integration-specs.pdf",
+    "size": 1572864,
+    "uploadedBy": "user5",
+    "uploadedAt": "2024-01-22T10:00:00Z"
+  },
+  {
+    "id": "file6",
+    "projectId": "project3",
+    "name": "database-schema.sql",
+    "url": "/files/database-schema.sql",
+    "size": 524288,
+    "uploadedBy": "user3",
+    "uploadedAt": "2024-01-25T13:20:00Z"
+  },
+  {
+    "id": "file7",
+    "projectId": "project1",
+    "name": "content-strategy.xlsx",
+    "url": "/files/content-strategy.xlsx",
+    "size": 2097152,
+    "uploadedBy": "user6",
+    "uploadedAt": "2024-01-20T15:10:00Z"
+  },
+  {
+    "id": "file8",
+    "projectId": "project5",
+    "name": "dashboard-mockups.sketch",
+    "url": "/files/dashboard-mockups.sketch",
+    "size": 7340032,
+    "uploadedBy": "user2",
+    "uploadedAt": "2024-02-10T12:30:00Z"
+  },
+  {
+    "id": "file9",
+    "projectId": "project5",
+    "name": "analytics-requirements.pdf",
+    "url": "/files/analytics-requirements.pdf",
+    "size": 1835008,
+    "uploadedBy": "user1",
+    "uploadedAt": "2024-02-12T08:45:00Z"
+  },
+  {
+    "id": "file10",
+    "projectId": "project2",
+    "name": "app-icon-variations.zip",
+    "url": "/files/app-icon-variations.zip",
+    "size": 4194304,
+    "uploadedBy": "user2",
+    "uploadedAt": "2024-02-05T14:00:00Z"
+  }
+]
