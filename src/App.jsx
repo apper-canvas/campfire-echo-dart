@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import Layout from './components/Layout';
-import Home from './pages/Home';
+import HomePage from '@/components/pages/HomePage';
 import Projects from './pages/Projects';
 import ProjectDetail from './pages/ProjectDetail';
 import MyAssignments from './pages/MyAssignments';
@@ -15,7 +15,7 @@ function App() {
       <div className="h-screen bg-background overflow-hidden">
         <Routes>
           <Route path="/" element={<Layout />}>
-            <Route index element={<Home />} />
+<Route index element={<HomePage />} />
             <Route path="projects" element={<Projects />} />
             <Route path="project/:id" element={<ProjectDetail />} />
             <Route path="my-assignments" element={<MyAssignments />} />
